@@ -25,7 +25,7 @@ const About = () => {
                  and I'm from <span className="yellow"> Coimbatore,Tamilnadu.</span>
                 <br />
                 <br />
-                I'm currently in my pre-final year of pursuing a B.Tech degree with a specialization in Artificial Intelligence and Data Science.
+                I'm currently in my final year of pursuing a B.Tech degree with a specialization in Artificial Intelligence and Data Science.
                 <br />
                 <br />
                   
