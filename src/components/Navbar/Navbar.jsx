@@ -65,7 +65,7 @@ function NavBar() {
             <Nav.Item>
               {/* Use anchor tag with href to Google Drive link */}
               <Nav.Link
-                href="https://drive.google.com/file/d/1-VMWhWIaKDA-B5LayrpqcWUxAi_dsyUj/view?usp=sharing"
+                href="https://drive.google.com/file/d/1voTx_dS6ViIPU3aYMRoBazM87TvLjZhF/view?usp=drive_link"
                 target="_blank"
                 onClick={() => updateExpanded(false)}
               >
